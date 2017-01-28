@@ -8,3 +8,7 @@ Updates made on GitHub b4 rebasxe
 ## This is just a readme file.
 
 do do do!
+
+## Getting Started
+
+Just give'r bud
